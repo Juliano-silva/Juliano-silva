@@ -1,4 +1,4 @@
-# <h1 align="left"> Olá, Meu nome é Juliano Silva de Almeida sou um Programador buscando ficar melhor a cada dia. </h1>
+# <h1 align="center"> Olá, Meu nome é Juliano Silva de Almeida sou um Programador buscando ficar melhor a cada dia. </h1>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-silva-de-almeida-8a7b42238/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ju.liano1841/)
