@@ -16,8 +16,4 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </div>
 <br>
-<h1 align="center">Linguagens Mais usadas </h1>
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-silva&layout=compact)](https://github.com/Juliano-silva/github-readme-stats)
 </div>
