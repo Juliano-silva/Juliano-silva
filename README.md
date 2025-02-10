@@ -18,4 +18,4 @@
 </div>
 
 <h1>Projetos em Destaque </h1>
-<h2>[Reproduction Deluxe](https://github.com/Juliano-silva/ReproductionDeluxe) #Esse é um aplicativo feito no Flask que baixa, e também reproduzir as músicas sem necessidade de uma conexão com a internet</h2>
+<h2>![Reproduction Deluxe](https://github.com/Juliano-silva/ReproductionDeluxe) #Esse é um aplicativo feito no Flask que baixa, e também reproduzir as músicas sem necessidade de uma conexão com a internet</h2>
