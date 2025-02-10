@@ -19,5 +19,5 @@
 
 <h1>Projetos em Destaque </h1>
 [Reproduction Deluxe](https://github.com/Juliano-silva/ReproductionDeluxe) 
-[Visite o GitHub](https://github.com)
+Clique [aqui](https://github.com) para acessar à página do GitHub.
 <h2>Esse é um aplicativo feito no Flask que baixa, e também reproduzir as músicas sem necessidade de uma conexão com a internet</h2>
