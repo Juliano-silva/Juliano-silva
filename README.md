@@ -2,7 +2,7 @@
 <h4>Meu nome é Juliano Silva de Almeida, sou um desenvolvedor apaixonado por tecnologia. </h4>
 
 <h1>Sobre Mim</h1>
-<h4>🌱 Atualmente estou cursando sistema da informação.</>
+<h4>🌱 Atualmente estou cursando sistema da informação na Faculdade Uniavan.</>
 <h4>🎯 Objetivo: Melhorar minhas habilidades no mundo da tecnologia</h4>
 <h4>📫 Como me Encontrar: https://www.linkedin.com/in/juliano-silva-de-almeida-8a7b42238</h4>
 
