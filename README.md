@@ -24,4 +24,4 @@
 
 [Reproduction Deluxe](https://github.com/Juliano-silva/ReproductionDeluxe) 
 
-<h2>Esse é um aplicativo feito no Flask que baixa, e também reproduzir as músicas sem necessidade de uma conexão com a internet</h2>
+<h2>Esse é um aplicativo feito no Flask que baixa, e também reproduzir as músicas</h2>
