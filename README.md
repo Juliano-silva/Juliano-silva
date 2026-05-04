@@ -36,14 +36,5 @@
 Sempre tento criar coisas que eu realmente gosto e não apenas pelo trabalho. Tento ser criativo e buscar uma forma diferente de ver a minha vida e o código que está na minha frente. Gosto de sentir que criei algo realmente bom. 
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Juliano-silva&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-silva&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 "Não acredite em você mesmo. Acredite em mim, que acredito em você!".
+---
