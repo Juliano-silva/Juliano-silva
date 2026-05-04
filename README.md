@@ -40,8 +40,8 @@ Sempre tento criar coisas que eu realmente gosto e não apenas pelo trabalho. Te
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Juliano-silva&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-silva&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
