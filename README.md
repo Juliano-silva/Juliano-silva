@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 
 - 🌱 Atualmente cursando **Sistemas de Informação** na **Uniavan**
-- 🎯 Objetivo: evoluir constantemente minhas habilidades no mundo da tecnologia
+- 🎯 Objetivo: evoluir constantemente minhas habilidades no mundo da tecnologia e tentando me tornar um programador full-stack
 - 📚 Focado em desenvolvimento web, banco de dados e interfaces responsivas
 - 📫 Linkedin:  
   https://www.linkedin.com/in/juliano-silva-de-almeida-8a7b42238
